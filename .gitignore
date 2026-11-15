@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.csv
+*.npy
+*.npz
+*.mp4
+data/
+runs/
